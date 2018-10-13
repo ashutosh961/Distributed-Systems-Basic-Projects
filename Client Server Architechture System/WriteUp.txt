@@ -1,0 +1,28 @@
+Following are the ways for executing the project:
+
+1.Install Pycharm Community Edition latest 
+2.Extract the zip folder
+3.Open the project 
+4.Install Libraries Pandas Version 0.19.2 and EasyTkinter by selecting
+   File->Settings->Add
+5.Enter the library names and install them
+6.Citations have been given in src code as well as Citations.txt
+7.Firstly run Server1.py
+8.Run Client2.py or Client1.py
+  Note:Both Files have been included to perform multithreading
+9.Enter the word which you find suitable in PythonServerFile.csv in the 
+   project folder in lower case 
+10.The GUI would pop up showing server transactions and the client GUI would 
+    pop up showing the synonyms of the given word in the database 
+11.The synonyms are written row wise .
+12.The server GUI works perfectly fine.
+13.Note:Enter the given word from python pycharm IDE as input text textfield in client GUI is facing issues.
+
+
+
+14.Note:To view the multithreading output of two clients Client and Client2
+         Run Client.py and Enter the word and run Client2.py and enter the   
+         word.
+         Observe the shell Output in the pycharm shell for seeing the log of 
+         two connections.The GUI spawns two windows seperately for each   
+         client and logs seperately in a server window(i.e. Different Server window for each.)

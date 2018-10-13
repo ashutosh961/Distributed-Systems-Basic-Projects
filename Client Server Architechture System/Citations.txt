@@ -1,0 +1,31 @@
+Please Note that the citations have also been given source code as well as in this document.
+
+
+CITATIONS:
+For Tkinter API GUI for python
+1.http://zetcode.com/gui/tkinter/layout/ 
+2.http://python-  textbok.readthedocs.io/en/1.0/Introduction_to_GUI_Programming.html
+3.https://stackoverflow.com/questions/459083/how-do-you-run-your-own-code-  alongside-tkinters-event-loop
+4.https://stackoverflow.com/questions/10727131/why-is-tkinter-entrys-get-  function-returning-nothing
+5.https://www.python-course.eu/tkinter_entry_widgets.php
+
+For String-Handling
+1.https://stackoverflow.com/questions/14215338/python-remove-multiple-  character-in-list-of-string
+2.https://stackoverflow.com/questions/817122/delete-digits-in-python-regex
+3.https://stackoverflow.com/questions/8270092/python-remove-all-whitespace-  in-a-string/8270145
+
+For Socket-Programming and data flow over sockets
+1.https://stackoverflow.com/questions/18310152/sending-binary-data-over-  sockets-with-python
+2.https://stackoverflow.com/questions/1472876/why-is-host-aborting-  connection
+3.http://www.geeksforgeeks.org/socket-programming-python/
+4.http://www.bogotobogo.com/python/python_network_programming_server_client_  file_transfer.php
+5.https://www.tutorialspoint.com/python/python_networking.htm
+6.http://www.bogotobogo.com/python/python_network_programming_server_client.  php
+7.http://www.bogotobogo.com/python/python_network_programming_server_client.  php
+
+For Pandas API dataframe
+1.https://stackoverflow.com/questions/42269166/how-to-convert-to-convert-    pandas-dataframe-into-bytes-and-vice-versa
+2.https://stackoverflow.com/questions/33957720/how-to-convert-column-with-    dtype-as-object-to-string-in-pandas-dataframe
+3.https://pandas.pydata.org/pandas-  docs/stable/generated/pandas.DataFrame.html
+4.https://stackoverflow.com/questions/11285613/selecting-columns-in-a-  pandas-dataframe
+
