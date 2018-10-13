@@ -1,0 +1,39 @@
+Name:Ashutosh Upadhye
+ID:1001581542
+
+WriteUp:
+
+1.Use python 3.5x or higher version to run the program
+2.Please install libraries urllib2 and urllib3 to run the program
+3.install library json 
+4.Run the program and please enter test data for location Arlington:
+  1.LAT:32.7357  LON:-97.0181
+  For location San Jose:
+  2.LAT:37.279518 LON:-121.867905
+5.Observe the output
+6.Press refresh to manually resetup the connection and obtain weather   details
+
+
+Citations:
+
+Weather Website url
+
+http://forecast.weather.gov/MapClick.php?lat=32.735600000000034&lon=-97.10771999999997#.WiRaQ0qnGHt
+https://www.gps-latitude-longitude.com/gps-coordinates-of-arlington-tx
+
+
+JSON PARSING
+
+https://stackoverflow.com/questions/6386308/http-requests-and-json-parsing-in-python
+https://stackoverflow.com/questions/35120250/python-3-get-and-parse-json-api
+http://engineering.hackerearth.com/2014/08/21/python-requests-module/
+http://www.pythonforbeginners.com/api/python-api-and-json
+https://stackoverflow.com/questions/16129652/accessing-json-elements
+https://stackoverflow.com/questions/25855276/parsing-json-with-python-typeerror-list-indices-must-be-integers-not-str
+
+GUI
+
+https://stackoverflow.com/questions/2261191/how-can-i-put-2-buttons-next-to-each-other
+https://stackoverflow.com/questions/32668087/how-to-place-buttons-left-and-on-top-of-each-other-python3-4-tkinter
+https://stackoverflow.com/questions/18550710/pack-labels-right-next-to-entry-box-in-tkinter-python
+https://stackoverflow.com/questions/35662844/python-tkinter-entry-get
